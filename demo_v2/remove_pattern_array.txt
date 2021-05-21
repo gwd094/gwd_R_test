@@ -1,0 +1,13 @@
+EPOCH\s\d{1,2}:\s?(\d{4}|\d{1,2}/\d{1,2})\s\d{1,2}:\d{1,2}\s?to\s?(\d{2,4}|\d{1,2}/\d{1,2})\s\d{1,2}:\d{1,2}
+Brigham and Women’?s
+Brigham And Women'?s/Mass(achusetts)? General Health Care Center
+Brigham and Women\\s Hospital
+Mass(achusetts)? General Hospital
+A Teaching Affiliate of Harvard Medical School
+Partners Neurology Resident
+MGH
+BWH
+\d{1,2}\s?(jan|feb|mar|apr|may|june|jun|july|jul|aug|sept|sep|oct|nov|dec)\.?\s+?\d{2,4}
+\d{1,2}\s?(Jan|Feb|Mar|Apr|May|June|Jun|July|Jul|Aug|Sept|Sep|Oct|Nov|Dec)\.?\s+?\d{2,4}
+\d{1,2}\s?(january|february|march|april|may|june|july|august|september|october|november|december)\s+?\d{2,4}
+\d{1,2}\s?(January|February|March|April|May|June|July|August|September|October|November|December)\s+?\d{2,4}

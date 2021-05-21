@@ -1,0 +1,11 @@
+\d+\s?yoF
+\d+\s?yoM
+\d+\s?y.o.F
+\d+\s?y.o.M
+\d+\s?y\.o\.F
+\d+\s?y\.o\.M
+\d+\s?year old F
+\d+\s?year old M
+\d+\s?year old Female
+\d+\s?year old Male
+\d+\s?year old
